@@ -732,7 +732,7 @@ After completing this TODO, your `<nav>` section should look like this:
 4. **Open the `style.css` file** and add the following CSS rules:
    ```CSS
    body {
-       background: rgb(125, 198, 205);
+       background: rgb(236, 241, 242);
        color: rgb(45, 45, 45);
        padding: 10px;
        font-family: Arial, sans-serif;
